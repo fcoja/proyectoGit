@@ -22,4 +22,11 @@ public class GitAux {
 	//Linea nueva de comentario
         System.out.println("Aqui escribimos todos");
     }
+    public void testGitAux(){
+    	
+	//metodo rama testing
+
+	System.out.println("Metodo testing");
+	
+    }
 }
